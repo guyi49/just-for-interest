@@ -46,6 +46,7 @@ class Solution(object):
                 right = mid
         return nums[right]
 
+
 if __name__ == "__main__":
     list1 = [7,0,1,2,4,5,6]
     list2 = [5,6,7,0,1,2,4]
