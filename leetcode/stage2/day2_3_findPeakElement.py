@@ -30,7 +30,7 @@ from typing import List
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
         left = 0
-        right = len(nums)-1
+        right = len(nums) - 1
         while left < right:
             mid = (left + right) // 2
             # 若 左值 大于 右值 ，则 左区间 可能存在 峰值
@@ -40,8 +40,6 @@ class Solution:
             else:
                 left = mid + 1
         return right
-
-
 
 
 if __name__ == "__main__":
