@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/10/8 12:18
 # @Author  : GuYi
-# @Function    :33. 搜索旋转排序数组
+# @Function    :33. 搜索旋转排序数组 二分查找
 '''
 整数数组 nums 按升序排列，数组中的值 互不相同 。
 

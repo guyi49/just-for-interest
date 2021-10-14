@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/10/12 9:08
 # @Author  : GuYi
-# @Function    : 844. 比较含退格的字符串
+# @Function    : 844. 比较含退格的字符串 双指针
 
 
 """

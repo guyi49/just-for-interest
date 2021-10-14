@@ -8,3 +8,11 @@ nums = [0, 0, 0]
 nums.sort()
 print(nums)
 
+p = "qazwsxedc"
+res = {}
+for i in p:
+    res[i]=0
+print(res)
+print(res['c'])
+if '':
+    print("yes")

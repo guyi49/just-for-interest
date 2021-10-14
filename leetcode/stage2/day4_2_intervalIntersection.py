@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/10/12 10:02
 # @Author  : GuYi
-# @Function    : 986. 区间列表的交集
+# @Function    : 986. 区间列表的交集   双指针
 
 """
 给定两个由一些 闭区间 组成的列表，firstList 和 secondList ,

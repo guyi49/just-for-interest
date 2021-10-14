@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/10/11 13:26
 # @Author  : GuYi
-# @Function    : 15. 三数之和
+# @Function    : 15. 三数之和   双指针
 """
 给你一个包含 n 个整数的数组nums，判断nums中是否存在三个元素 a，b，c ，
 使得a + b + c = 0 ？请你找出所有和为 0 且不重复的三元组。
