@@ -17,7 +17,7 @@
 def is_valid(win):
     return True
 
-# 滑动窗口模板
+# 滑动窗口模板1
 def check_inclusion(nums, target_str):
     '''
     :param nums: 字符串
@@ -32,5 +32,37 @@ def check_inclusion(nums, target_str):
         while is_valid(window):
             window.pop(0)
             left += 1
+
+def is_window_needs_shrink():
+    return True
+# 滑动窗口模板2
+def sliding_window(s,t):
+    # 字典 判断key值是否存在
+    window = {}
+    left, right = 0
+    valid = 0
+    while right < len(s):
+        # 移入窗口的字符
+        c = s[right]
+        # window.append(s[right])
+        # 右移窗口
+        right += 1
+        # 窗口数据更新
+        # code1
+
+        # 判断左窗口是否要收缩
+        while is_window_needs_shrink():
+            window.pop(0)
+            # 移出窗口的字符
+            d = s[left]
+            # 左移窗口
+            left += 1
+            # 窗口数据更新
+            # code2
+
+
+
+
+
 
 
