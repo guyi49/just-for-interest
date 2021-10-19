@@ -59,15 +59,10 @@ def get_next(root:Node):
 if __name__ == '__main__':
     s = Solution()
     # root = Node(1,Node(2,Node(4,None,None)),Node(5,None,None)),Node(3,None,Node(7,None,None))
-
     left_left = Node(4, None, None)
     left_right = Node(5, None, None)
     right_right = Node(7,None,None)
     left = Node(2,left_left,left_right)
     right = Node(3, None, right_right)
     parent = Node(1,left,right)
-    # print(parent.val)
-
-    # print(parent.val)
-    # print(root.val)
     print(s.connect(parent).left.next.val)
