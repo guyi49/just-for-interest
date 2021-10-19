@@ -9,31 +9,34 @@
 给你一个 n x n 的矩阵 isConnected ，其中 isConnected[i][j] = 1 表示第 i 个城市和第 j 个城市直接相连，
 而 isConnected[i][j] = 0 表示二者不直接相连。
 返回矩阵中 省份 的数量。
+即 求无向图中的连通域的个数
 """
 from typing import List
 
 
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        # max_count = 0
-        visited = []
+        # 数组标记位置
+        visited = [False for i in range(len(isConnected))]
+        # 省份变量
         province = 0
+        # 遍历
         for i in range(len(isConnected)):
-            if visited[i]:
+            if visited[i] == False:
                 province += 1
-                visited[i] = True
-                dfs(isConnected,i,visited)
+                dfs(isConnected, visited, i)
         return province
 
 
 # 深度优先算法
-def dfs(grid, i, j, visited):
-    if grid[i][j] == 1 and visited[j] is not None:
-        visited[j] = True
-        dfs(grid, i, j, visited)
+def dfs(grid, visited, i):
+    visited[i] = True
+    for j in range(len(grid)):
+        if grid[i][j] == 1 and visited[j] == False :
+            dfs(grid, visited, j)
 
 
 if __name__ == '__main__':
     s = Solution()
-    grid = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+    grid = [[1,1,0],[1,1,0],[0,0,1]]
     print(s.findCircleNum(grid))
