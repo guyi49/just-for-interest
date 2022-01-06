@@ -1,0 +1,54 @@
+    开发人员所会的语言不同，如python、java、scala等等。服务的运行要部署到相同的环境，同样要对相关服务进行管理。
+
+    将一个大的服务拆分多个小服务，及微服务化；服务容器化，project+os+dependencies packaged in a container；
+    服务pod化？
+
+- k8s
+    1. what?
+    2. why?
+    3. how
+        3.1 standalone
+        3.2 cluster
+    4. core
+        - pod
+          - the type of pod?
+          - how to run a pod?
+            - how to write a yaml
+            - how to make a template for yaml?
+        - 监控
+            - 自动扩缩容
+        - 存储
+        - 网络
+        -
+    5. others components
+        - sky-walking
+            链路追踪
+        - Prometheus
+            监控节点中，命名空间中的，cpu使用情况
+        - 包管理工具
+        -
+
+jenkins:
+CI/CD工具;
+构建服务流水线
+
+- 本地环境搭建k8s集群
+    - gitlab安装
+    - maven安装
+    - harbor安装
+    - docker部署jenkins
+    - k8s相关组件
+
+- 构建流水线时，如何将服务分布到不同的k8s-节点中
+
+- 如何
+- 微服务组件安装
+ - 网关
+ - 注册中心
+ - sba
+ - 熔断器
+
+
+Questions:
+1. 构建流水线时，如何将服务分布到不同的k8s集群的节点中。
+2.
