@@ -1,0 +1,44 @@
+listening
+11-16 F D B E H A
+17-18 B E
+19-20 D E
+21-25 B C C B B
+26-30 F A D B G
+
+reading
+1-5 FALSE \TRUE \NOT GIVEN \NOT GIVEN \ TRUE
+6
+7 Dry
+8 Tourists
+9 January
+10 bottom
+11 tank
+12 verandas
+13 last
+
+14  viii
+15  iii
+16  xi
+17  x
+18  v
+19  ii
+20  vii
+21  ix
+
+22 TRUE
+23 FALSE
+24 TRUE
+25 FALSE
+26 FALSE
+
+writing
+    I agree with the opinion that some information is too important or too valuable to be shard freely.Nowadays,there are
+some convenient media that appear in our daily life,such as smart phone,website in computer. More and more people prefer
+to get something important that they want from their phones through various social apps or information apps.
+    Gradually,scientific research or some organizations also publish something official or valuable through social media.
+Evidently,it has became a trend at present.Therefore,important or valuable information should be released freely in kinds
+of media.Furthermore,it's much easier for them to accept information which they desire,so they may have their judgments and
+express opinions.
+    Thus,we can realize that people are willing to accept the convenience and timeliness of information which are shared
+in everywhere.However,the mode of information dissemination is expended with the development of science technology.So that
+the valuable information can play a greater value.

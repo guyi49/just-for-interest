@@ -1,0 +1,45 @@
+
+listening
+11-16 F D B E H A
+17-18 B E
+19-20 D E
+21-25 B C C B B
+26-30 F A D B G
+
+reading
+1-5 FALSE \TRUE \NOT GIVEN \NOT GIVEN \ TRUE
+6
+7 Dry
+8 Tourists
+9 January
+10 bottom
+11 tank
+12 verandas
+13 last
+
+1
+22 TRUE
+23 FALSE
+24 TRUE
+25 FALSE
+26 FALSE
+
+writing
+1. 在如今的信息时代，许多获取信息的媒介出现在人们的生活中，例如手机，电脑。
+2. 越来越多的人们更倾向在手机中获取他们想要的信息通过各种社交或资讯类的app。
+3. 重要信息传播应该被自由地发布在各种媒介中，这种方式人们更容易接收到他们想要的信息，从而他们可能做出相应的判断或得到科普。
+4. 逐渐的，科学研究或一些组织机构也通过社交媒介发布官方的信息，当然依旧也通过在传统的方式例如，书籍、期刊等。由于获取信息的习惯不同。
+5. 由此我们可以得出信息共享的便捷性和及时性是人们所推崇的，然而信息的传播的方式是随着人类发展的传播媒介所拓展的。
+
+人们渴望便捷地得到他们想要知道的信息。
+
+    I agree with the opinion that some information is too important or too valuable to be shard freely.Nowadays,there are
+some convenient media that appear in our daily life,such as smart phone,website in computer. More and more people prefer
+to get something important that they want from their phones through various social apps or information apps.
+    Gradually,scientific research or some organizations also publish something official or valuable through social media.
+Evidently,it has became a trend at present.Therefore,important or valuable information should be released freely in kinds
+of media.Furthermore,it's much easier for them to accept information which they desire,so they may have their judgments and
+express opinions.
+    Thus,we can realize that people are willing to accept the convenience and timeliness of information which are shared
+in everywhere.However,the mode of information dissemination is expended with the development of science technology.So that
+the valuable information can play a greater value.
