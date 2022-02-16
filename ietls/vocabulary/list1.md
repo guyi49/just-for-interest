@@ -131,9 +131,17 @@
     
 26. companion [kəm'pænjən] 	n.共事者，同伴
     
+    - accompany 陪伴
+    
 27. impart [ɪm'pɑːt] 	v.给予，赋予
 
+    - impart news/secrets/ideas
+
 28. intermediate [,ɪntə'miːdɪət]	a.中间的，中级的
+    
+    - intermediate players
+    - intermediate English course 
+    - intermediate level
 
 29. eternal [ɪ'tɜːn(ə)l; iː-]	a.永恒的
 
