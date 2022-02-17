@@ -1,12 +1,15 @@
-1	"regional
-['riːdʒənl] "	a.局部范围的，区域性的
-2	"preserve
-[prɪ'zɜːv]"	v.保护，维持
-3	"review
-[rɪ'vjuː] "	v.回顾，复习，评论
-4	fabrication[fæbrɪ'keɪʃ(ə)n]	n.捏造，伪造
-5	"variation
-[veərɪ'eɪʃ(ə)n]"	n.变化，变动
+1. regional ['riːdʒənl]	a.局部范围的，区域性的
+    - region 
+    - regional 
+
+2. preserve [prɪ'zɜːv]	v.保护，维持
+
+3. review [rɪ'vjuː]	v.回顾，复习，评论
+
+4. fabrication [fæbrɪ'keɪʃ(ə)n]	n.捏造，伪造
+
+5. variation [veərɪ'eɪʃ(ə)n]	n.变化，变动
+
 6	"margin
 ['mɑːdʒɪn]"	n.差额，页边空白
 7	"distraction
