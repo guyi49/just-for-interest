@@ -58,15 +58,29 @@
     - I do like communicating with the people who are thoughtful and have own their own viewpoints,so as to exchange 
     their different views on things.
     
+    - I do like talking with people but it depends on the person. 
+    If I really like the person then I can talk to them for ages, but if I don’t really like them then I don’t want to talk to them. 
+    Personally, I like time alone so it depends how I am feeling or how tired I am, I need to have the energy. 
+    It also depends on the subject, if I am really interested in it then I like talking about it with others.
+    
     How do you like spending time with your friends?
     - It depends on my common hobbies with my friends.Usually,I like to hang out with them.
     - When we feel tired,we will go to have coffee and chat.
     
+    - When I’m with my friends I like to just hang out with them. I love eating so I like going to cafes or restaurants with my friends. 
+    Other times, like in summer I like to go to the beach, or in winter I like skiing or watching movies. If we are at home, 
+    then I like listening to music or just talking.
+    
     Would you prefer to study alone or with others?
     - I prefer to study alone.For me, learning is a matter that requires my high concentration.
-    - Sometimes when I study with others,it will distract me.
+    - Sometimes when I study with others,it will distract me. It’s less distracting.
     - It depends though,if I am learning a language I like to study with others because when 
       we can practise speaking in another language with each other.
+      
+    - I prefer to study alone because it’s much less distracting for me, I find that I can concentrate better when I am alone. 
+    Also, I can listen to my own music – honestly, some people have really bad taste in music! 
+    It depends though, if I am learning a language I like to study with friends because then we can practise speaking in 
+    another language with each other.
     
     Do you remember a time when you need to cooperate with others?
     - When I was a sophomore, the final assignment of communication and speech class was to shoot an interview video in a group of 
@@ -74,6 +88,11 @@
     - I was responsible for writing scripts and being an interviewer.Some people needed to be photographers and others
         needed to participate in video editing.
     - This tested our cooperation ability.Finally, we won the first place in the group.
+    
+    - At university last year, for my Spanish class we had to do a group project between three of us, and present a 
+    slideshow about Colombia. It had to be done in Spanish, and we decided to split the jobs, so I did the speaking, 
+    another person did the music, and another person did the graphics. It was fun, because I liked my classmates, 
+    but it was hard because we had very different personalities! We just had to be patient and listen to each other.
     
 5. Taking photos
 
