@@ -55,15 +55,25 @@
 4. Spending time with others:
 
     Do you like talking with people?
-    - Yes, 
+    - I do like communicating with the people who are thoughtful and have own their own viewpoints,so as to exchange 
+    their different views on things.
     
     How do you like spending time with your friends?
-    - relaxing 
+    - It depends on my common hobbies with my friends.Usually,I like to hang out with them.
+    - When we feel tired,we will go to have coffee and chat.
     
     Would you prefer to study alone or with others?
-    - I prefer to study alone.
+    - I prefer to study alone.For me, learning is a matter that requires my high concentration.
+    - Sometimes when I study with others,it will distract me.
+    - It depends though,if I am learning a language I like to study with others because when 
+      we can practise speaking in another language with each other.
     
     Do you remember a time when you need to cooperate with others?
+    - When I was a sophomore, the final assignment of communication and speech class was to shoot an interview video in a group of 
+      about five to seven people.And it needed to be completed by division of labor.
+    - I was responsible for writing scripts and being an interviewer.Some people needed to be photographers and others
+        needed to participate in video editing.
+    - This tested our cooperation ability.Finally, we won the first place in the group.
     
 5. Taking photos
 
