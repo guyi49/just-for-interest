@@ -111,7 +111,9 @@
     - The Party/ Country leadership 
     - Strong leadership
 
-22. equity['ekwɪtɪ]	n.公平，公正
+22. equity['ekwɪtɪ]	n.公平，公正 ; 资产净值
+    - justice and equity
+    - Economic equity
     
     
 23. excavate ['ekskəveɪt]	v.挖掘，开凿
@@ -144,27 +146,52 @@
     - intermediate level
 
 29. eternal [ɪ'tɜːn(ə)l; iː-]	a.永恒的
+    - eternal topic/friendship/life/love  
 
 30. invasion [ɪn'veɪʒ(ə)n]  n.入侵，侵略
+    - the threat of invasion
+    - this invasion of her personal space
 
 31. nevertheless [nevəðə'les] ad.仍然，然而；conj.然而
+    - nonetheless 
 
 32. attendance [ə'tend(ə)ns] n.到场，出席
+    - be in attendance
+    - attendances
+    - take attendance 点名
 
 33. optional ['ɒpʃ(ə)n(ə)l]	a.可选择的，非强制是的
+    - option
+    - certain courses are compulsory, others are optional.  选修
+    - it should remain optional     保持非强制性的
 
 34. departmental[diːpɑːt'ment(ə)l]	a.部门的
-
+    - department 
+    
 35. dismantle [dɪs'mænt(ə)l] 	v.拆除，废除，取消
+    - dismantle the engine      拆开发动机
+    - dismantle legislation     废除法律
 
 36. landscape[ˈlændskeɪp]	n.风景；v.美化自然环境
+    - desert landscape  沙漠风光
+    - political landscape   政治舞台
+    - The sunset was a very beautiful sight     指眼见的景色，如城市景象或自然风光，也指人造景物或奇特的景象。
+    - impressive/street/pastoral scene      指某地方、图画等中的景色。
 
 37. commonwealth ['kɒmənwelθ] n.英联邦，联合体
+    - commonwealth conference
 
 38. periodical [pɪərɪ'ɒdɪk(ə)l]	n.期刊；a.周期的
-
+    - books and periodicals
+    - periodical visits/published
+    
 39. receptionist [rɪ'sepʃ(ə)nɪst]	n.接待员
+    - receive
+    - reception    
 
 40. security [sɪ'kjʊərətɪ] n.安全，保障
+    - national/financial security
+    
+    
 
     
