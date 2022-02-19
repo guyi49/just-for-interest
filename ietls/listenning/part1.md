@@ -1,4 +1,6 @@
 ## 听力
+### part1
+
 1. 题材
     - part 1-2 
         生活类
@@ -15,15 +17,16 @@
         1. 一级定位词
            - 大写人名、地名
         2. 二级定位词
+           - 时间状语
     - 答案词
     - 近义词替换 photo picture
     - 否定词
     
-#### vocabulary
+### vocabulary
 
 1. accommodation
     - hostel
-    - flat /apartment
+    - flat / apartment
     - floor
     - entrance hall 门厅、大堂
     - porch 走廊
@@ -112,5 +115,37 @@ opposite side of river
 tradition -> traditional 
 
 demo -> demonstration
+
+?
+[job enquiry]
+branch 
+museum gallery
+washing up
+
+[copying photos to digital format]
+is not correctly = properly
+
+[children's engineering workshops]
+balloon
+model vehicles 
+decorate
+parking
+
+[noise in cities]
+acoustic 声学
+variation
+    - vary
+    - change
+    - alter
+perceptions 感知
+political issue / matter
+take (no) count of 
+the composition of blood
+the sound of fountain   喷泉
+Dutch 荷兰人
+
+    
+
+
 
 
