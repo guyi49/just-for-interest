@@ -10,7 +10,6 @@
     - The burgeoning population
     - My confidence began to burgeon since I took the lecture class. 
     
-
 4. methane ['miːθeɪn; 'meθeɪn]	n.甲烷，沼气
 
     - Methane is often regarded as the second most important greenhouse gas after carbon dioxide.
@@ -26,21 +25,18 @@
 
     - the social/political hierarchy
     - He quite high up in the management hierarchy
-    
+
 7. guidance ['gaɪd(ə)ns]	n. 指引，指导
     
     - Under the correct guidance of the experienced fitness trainer, my fitness effect has changed significantly.
     - seek tutorial guidance
     
-
 8. electrical [ɪ'lektrɪk(ə)l]	 a. 电的，电学的
     
     - electrical appliances/equipments
     - electrical energy/power
-    
     - The electrical engineering is one of the most popular subject in the universities at present.
     - I was an electrical engineering major.
-
 
 9. philosophy [fɪ'lɒsəfɪ]	 n. 哲学
 
