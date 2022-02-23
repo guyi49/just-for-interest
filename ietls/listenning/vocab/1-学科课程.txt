@@ -2,7 +2,7 @@ discipline                                         学科，纪律
 nursing                                            护理学
 economics                                          经济学
 statistics                                         统计学
-business
+business                                           工商
 physics                                            物理学
 politics                                           政治学
 history                                            历史
@@ -12,6 +12,14 @@ biology                                            生物
 linguistics                                        语言学
 psychology                                         心理学
 sociology                                          社会学
+archaeology                                        考古学
+journalism                                         新闻学
+law                                                法学
+education                                          教育学
+engineering                                        工程
+accounting                                         会计
+finance                                            金融
+
 course                                             课程
 seminar                                            研讨会
 tutorial                                           指导课，小组讨论
@@ -143,3 +151,5 @@ minor subject
 成熟的，年长的
 证书
 奖学金                    
+主修
+选修

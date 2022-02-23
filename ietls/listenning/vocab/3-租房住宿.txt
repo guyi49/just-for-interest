@@ -7,6 +7,11 @@ balcony                     阳台
 bedroom                     卧室
 bedsit                      卧室兼起居室
 kitchen                     厨房
+entrance hall               门厅、大堂
+porch                       走廊
+balcony                     阳台
+lobby                       门厅
+
 stove                       炉子，火炉
 fridge                      冰箱
 electric fans               电风扇

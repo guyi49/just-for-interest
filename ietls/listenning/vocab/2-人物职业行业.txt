@@ -1,11 +1,11 @@
 lawyer                                 律师
-dentist                                牙医；
-artist                                 艺术家，
-scientist                              科学家，
-accountant                             会计，
-biologist                              生物学家，
-waiter                                 服务员，
-doctor                                 医生，
+dentist                                牙医
+artist                                 艺术家 
+scientist                              科学家 
+accountant                             会计 
+biologist                              生物学家 
+waiter                                 服务员 
+doctor                                 医生 
 manager                                经理
 actor                                  演员
 actress                                女演员
@@ -34,8 +34,7 @@ recruit                                招聘
 employ/hire                            雇佣
 wage/salary                            工资
 welfare                                福利
-
-----
+---------------------------------------------------------------
 lawyer
 dentist
 artist
@@ -72,15 +71,15 @@ recruit
 employ/hire
 wage/salary
 welfare
-
+---------------------------------------------------------------
 律师
-牙医；
-艺术家，
-科学家，
-会计，
-生物学家，
-服务员，
-医生，
+牙医
+艺术家 
+科学家 
+会计 
+生物学家 
+服务员 
+医生 
 经理
 演员
 女演员
