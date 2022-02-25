@@ -9,7 +9,6 @@ bedsit                      卧室兼起居室
 kitchen                     厨房
 entrance hall               门厅、大堂
 porch                       走廊
-balcony                     阳台
 lobby                       门厅
 
 stove                       炉子，火炉
