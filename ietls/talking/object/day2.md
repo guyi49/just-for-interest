@@ -251,13 +251,15 @@ explain why you think it is exciting.
             and attempts to defuse the tragedy by means of a Taoist solution: "to forget".
         - It tells a story about how a group of people save the earth.
         - It tells a story about how Harry destroys V's Horcrux and eventually defeats him.
-        - It tells a story about how a man faces a variety of sufferings but frankly alive .
+        - It tells a story about how a man faces a variety of sufferings but lives strong .
     - why you think it is exciting
         - 说起/提及：
             - in terms of=as to=as for=with regard to=speaking of=when it comes to
-        - in terms of one plot that made me excited
+        - in terms of one plot that made me touched,
         The protagonist's pregnant wife knelt down and begged him to go home，however she was slapped by her husband.
-        She gave up her dignity in the hope that her husband would turn back
+        She gave up her dignity to get save her husband. 
+        gambling 
+        get back his family
         - it should be the one when...
         - it should be the one when Neville is able to wield a sword to kill Nagini.
         - Another inspiring part/thing happens when 
@@ -269,6 +271,12 @@ explain why you think it is exciting.
           He always pretend to be stupid,while once his family faced a essential decision-making 
           the young man holds a different opinion from others.it turns out that his correct.Since than he has been 
           regarded as an intelligent man.
+    - NATO 北约
+    - fuse 导火索
+    - republic 
+    - independent
+    - Donetsk and Luhansk regions of Ukraine declared to be independent
+    - these
     - downfall/decline  毁灭
     - Horcrux 魂器
     - Tibet Tibetan 西藏
@@ -284,3 +292,7 @@ explain why you think it is exciting.
     - omnipresent 无处不在
     - omnivorous 杂食的
     - there is an advertisement attracting me by its content and it's a baby washing her mom's feet.
+    
+    
+Describe a story someone told you and you remember. What the story was
+about, who told you this story, why you remember it, and how you feel about it.
