@@ -101,12 +101,22 @@
     What is your favorite family photo?3 | 6
     Do you want to improve your photography skills?
     
-6. Time management
+6. Time management * 
 
-    Do you like being busy?
-    How do you plan your time in a day?
-    When do you find it hard to allocate time?
-    Is it easy to manage time for you?
+    - Do you like being busy?
+        - Actually not really
+        - I like being full rather than being busy.
+        
+    - How do you plan your time in a day?
+        - I usually make a to-do list that including what I should do and the time I used. 
+    
+    - When do you find it hard to allocate time?
+        - I don't seem to have such a moment.
+        - I like an efficient lifestyle,so I don't time wasting time on meaningless thing.   
+        
+    - Is it easy to manage time for you?
+        - yes,I clearly know what I do.
+        - And Managing time properly is beneficial way to make my lifestyle more simple and efficient.
     
 7. Lost and found
 
@@ -116,9 +126,20 @@
     What will you do if you find something lost by others?
     Do you report to the police when finding something lost by others?
     
-8. Daily routine
+8. Daily routine * 
 
-    What is your daily study routine?4 | 6
-    Have you ever changed your routine?
-    What part of your day do you like best?
-    Do you think it is important to have a daily routine for your study?
+    - What is your daily study routine?
+        - On weekdays,I will spare at least one hour to study.
+        - On weekdays, 
+    
+    - Have you ever changed your routine?
+        - 
+    
+    - What part of your day do you like best?
+        - the part that I can relax myself,such as listening to music ,playing the guitar and 
+        watch some short videos.
+        
+    - Do you think it is important to have a daily routine for your study?
+        - Yes.I was educated to establish the concept of lifelong when I was young.
+        - So I take studying as a daily habit.
+        

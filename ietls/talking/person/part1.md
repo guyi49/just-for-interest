@@ -32,5 +32,25 @@
     - Yes,it's the foundation for further study and work in the future.
     
     
-    
+2. athlete 
+    - sport
+        - skeleton 钢架铁车
+        - luge 雪橇
+        - big air 大跳台
+        - aerial 空中技巧
+        - half pipe 
+        - slope style
+        - curling 冰壶
+        - mixed relay 接力 
+        
+    - 电视和其它媒介之间的区别
+        - commercial
+        - public service ad
+        - in those online programs
+        - planted 
+        
+
+          
+
+            
     
