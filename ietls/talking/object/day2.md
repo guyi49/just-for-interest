@@ -36,14 +36,12 @@
     
     - Do you like science?
         - I did some experiments, and they left a deep/profound impression on/upon me.
-        - Yes.It m
-        - Science and technology have changed the way people live. It has also brought some negative effects，such 
+        - Science and technology have changed the way people live. It has also brought some negative effects 
         
     - When did you start to learn about science?
         - I did some experiments, and they left a deep/profound impression on/upon me.
         - carbon dioxide 
         - I should always write the phenomenon the clear limewater turns turbid
-        - I
     
     - Which science subject is interesting to you?
         - computer science 
@@ -52,7 +50,8 @@
         - artificial intelligence
         
     - What kinds of interesting things have you done with science?
-        -        
+        - test
+              
     
 8. App
     
@@ -294,5 +293,11 @@ explain why you think it is exciting.
     - there is an advertisement attracting me by its content and it's a baby washing her mom's feet.
     
     
+#### 别人讲述的故事
 Describe a story someone told you and you remember. What the story was
 about, who told you this story, why you remember it, and how you feel about it.
+It tells a story about how Harry destroys V's Horcrux and eventually defeats him.
+1. It tells a story about how a woman lives strong even though she is disabled.
+2. When I was in high school,I participated in a reading seminar on the disabled.The host sharded the story with us.
+3. In terms of one plot that made me touched.It should be the one when her family asked her to give up the relationship
+of a man who is the same disability as her.But she firmly choose him and will bear the consequence of living with him.
