@@ -33,13 +33,12 @@ garage                      车库
 decoration                  装饰
 refurbishment               重新装修
 toilet                      卫生间
-cottage                     小村屋，小别墅
+cottage                     小村屋，小别墅 cottage
 cabin                       小木屋
 insurance                   保险
 cafeteria                   咖啡店
 canteen                     食堂
 studio                      工作室；单间公寓
-bedsit                      卧室兼起居室
 roommate                    室友
 carpet                      地毯
 bank statement              银行对账单
@@ -55,7 +54,10 @@ basement
 balcony         
 bedroom         
 bedsit          
-kitchen         
+kitchen
+entrance hall
+porch
+lobby
 stove           
 fridge          
 electric fans
@@ -82,8 +84,7 @@ cabin
 insurance       
 cafeteria       
 canteen         
-studio          
-bedsit          
+studio
 roommate        
 carpet          
 bank statement  
@@ -98,7 +99,10 @@ badminton
 阳台              
 卧室              
 卧室兼起居室      
-厨房              
+厨房
+门厅、大堂
+走廊
+门厅
 炉子，火炉        
 冰箱              
 电风扇            
@@ -125,8 +129,7 @@ badminton
 保险              
 咖啡店            
 食堂              
-工作室；单间公寓  
-卧室兼起居室      
+工作室；单间公寓
 室友              
 地毯              
 银行对账单        

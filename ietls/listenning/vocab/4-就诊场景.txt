@@ -1,0 +1,96 @@
+medicine                  医药
+doctor                    医生
+dentist                   牙医
+therapy                   疗法
+injury                    受伤的
+injure                    弄伤
+treatment                 治疗
+hurt                      弄伤，受伤
+smash                     打碎
+appointment               预约
+virus                     病毒
+injection                 注射
+vaccine                   疫苗
+cough                     咳嗽
+disease                   疾病
+heart disease             心脏病
+allergy                   过敏
+be allergic to            对xx过敏
+disabled person           残疾人
+surgeon                   外科医生
+clinic                    诊所
+patient                   病人
+temperature               温度
+hospital                  医院
+stomach                   胃
+relaxation                休息放松
+ambulance                 救护车
+vaccinate                 接种疫苗
+vaccination               接种疫苗
+asthma                    哮喘病
+symptom                   症状
+---------------------------------------------------------------
+medicine
+doctor
+dentist
+therapy
+injury
+injure
+treatment
+hurt
+smash
+appointment
+virus
+injection
+vaccine
+cough
+disease
+heart disease
+allergy
+be allergic to
+disabled person
+surgeon
+clinic
+patient
+temperature
+hospital
+stomach
+relaxation
+ambulance
+vaccinate
+vaccination
+asthma
+symptom
+---------------------------------------------------------------
+医药
+医生
+牙医
+疗法
+受伤的
+弄伤
+治疗
+弄伤，受伤
+打碎
+预约
+病毒
+注射
+疫苗
+咳嗽
+疾病
+心脏病
+过敏
+对xx过敏
+残疾人
+外科医生
+诊所
+病人
+温度
+医院
+胃
+休息放松
+救护车
+接种疫苗
+接种疫苗
+哮喘病
+症状
+
