@@ -1,4 +1,4 @@
-## 小作文
+## 小作文 task1
 1. TH
     - 主要特征
     - 比较
@@ -58,7 +58,7 @@
     4. 保持客观 
 - 4. 考点
     - 逻辑考点 > 语言考点 * 
-           
+#### 静态图           
 1. test1 - UK telephone calls,by category, 1995-2002:
     1. The graph below indicates the quantity of minutes(in billions) / time of telephone calls in Britain which is divided 
         into three/different/several/some kinds/sorts/types/parts/sectors/sections, during the period 1995 and 2000. 
@@ -174,7 +174,7 @@
         - bottom out m reach the bottom  * 
     - 幅度 * 
         - 大幅度
-            - sharply, rapidly, remarkably, markedly, considerably, significantly, dramatically
+            - sharply, rapidly, remarkably, markedly, considerably, significantly, dramatically;enormous
         - 中幅度
             - modestly, moderately
         - 小幅度
@@ -183,7 +183,7 @@
         - 快上 
             - soar, surge , rocket , jump , shoot up , balloon 
         - 快下  
-             - plummet , plunge , slump 
+            - plummet , plunge , slump 
         - 慢上
             - tick up , edge up
         - 慢下
@@ -218,11 +218,11 @@
         - 趋势
             - trend , tendency
         - 数
-            - number , data , figure
+            - number , data , figure (for)
         - 比例
             - percentage , proportion , rate , ratio
         - 占比
-            - account for , take up , make up , provide , occupy , represent, comprise, constitute
+            -  take up , make up , account for , provide , occupy , represent, comprise, constitute
         - 交点 line
             - overtake, surpass , exceed 
          
