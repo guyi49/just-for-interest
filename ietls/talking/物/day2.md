@@ -293,12 +293,25 @@ explain why you think it is exciting.
     - there is an advertisement attracting me by its content and it's a baby washing her mom's feet.
     
     
-#### 别人讲述的故事
+#### talk about a story that someone told you
+
 Describe a story someone told you and you remember. What the story was
 about, who told you this story, why you remember it, and how you feel about it.
+
 It tells a story about how Harry destroys V's Horcrux and eventually defeats him.
 
 1. It tells a story about how a woman lives strong even though she is disabled.
-2. When I was in high school,I participated in a reading seminar on the disabled.The host sharded the story with us.
+2. When I was in college,I participated in a reading seminar on the disabled.The host sharded the story with us.
 3. In terms of one plot that made me touched.It should be the one when her family asked her to give up the relationship
-of a man who is the same disability as her.But she firmly choose him and will bear the consequence of living with him.
+of a man who is the same disability as her.But she firmly choose to marry him and will bear the consequence of living 
+with him.
+
+
+When I was in college,I participated in a reading seminar on the disabled.The host sharded the story with us.
+It tells a story about how a woman lives strong even though she is disabled.Like most people,after finishing college.
+she joined to work,which was specially set up for disabled.
+In terms of one plot that made me touched.It should be the one when her family will be willing to support her if she 
+doesn't want to work.However,she regards herself as a normal person.Fortunately,she can makes money through online work.
+Another inspiring part happens when her family asked her to give up the relationship of a man who is the same disability 
+as her.But she firmly choose to marry him. No matter what happens,we are supposed to treat ourselves correctly and 
+firmly choose what we love.
