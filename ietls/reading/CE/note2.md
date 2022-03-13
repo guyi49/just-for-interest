@@ -19,7 +19,15 @@
 - NB
     1. 优先完成印象深的题
     2. 注意利用提示词（具体词）和考点词 先提示，后考点
-    
+### 六种并列关系
+1. and/or 
+2. as well as
+3. not only ... but also
+4. in addition
+5. together with
+6. such as
+### 专有词汇
+called/known as / refer to as + 专有词汇 
 #### C11-test1-reading-p2
 
 - 对...有兴趣/喜欢/热爱

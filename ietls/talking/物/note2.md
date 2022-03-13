@@ -1,4 +1,21 @@
 ### part 1 
+1. TV program:
+    - What kind of TV programs do you often watch?
+        - variety show/program 
+            - every time some celebrities invited to be...
+            - There are many xxx invited to be 
+            - I am willing to see the out of the stage.
+            - entertaining
+        - documentary
+            - educational = informative 
+        - Gordon Ramsey/Kitchen Nightmare.Hell's kitchen.Every season.
+        - position of chef
+        - scallop.lamb.risotto 烩饭
+        - Too hot to handle.
+    - Do you think kids are watching too much television?
+    - What are the impacts of watching TV programs on children?
+    - What kinds of TV programs do you think should be broadcast more?
+    
 2. Handwriting
 
     - Do you like handwriting?
@@ -24,7 +41,39 @@
         - show/reflect your attentive attitude
         - It may show how attentive you are
         - At the same time, it reflects your literacy in the art of writing.
-
+3. Shoes
+    - Do you like buying shoes? How often?
+        - yes.once a quarter in order to match shoes according to different clothes.
+        - I prefer sneakers because of 
+        - once every three months.
+        - sneakers/trainers.Leather shoes.
+        - eye-catching.
+        - internship - 实习的时
+        - old,well-worn
+        - match shoes according to different clothes.
+    - Have you ever bought shoes online?
+        - yes,of course.I still choose to buy online because of its convenience.
+        - I can see the comparison of shoes of the same style but not different brands and the comments of buyers on the Internet
+        - pirated / fake
+        - genuine goods
+    - How much money do you usually spend on shoes?
+        - 300-1000 yuan.
+    - Which do you prefer, fashionable shoes or comfortable shoes?
+       - sports. comfortable
+       - party, fashionable
+4. Headphones
+    - Do you use headphones?
+        - Actually what I use is earphone.blue-tooth
+        - tangling
+        - the wire always to be tangling.It's more conve
+        - when i do sports 
+        - wired,wireless,bluetooth.I'm especially afraid of wearing wireless one when I take the subway during rush hours.
+        - They may just drop and I will never be able to find them.
+        
+    - What type of headphones do you use?
+    - When would you use headphones?
+        - kill the time / chill
+    - In what conditions would you not use headphones?
 5. Science
     - physics
     - chemistry
@@ -315,3 +364,45 @@ doesn't want to work.However,she regards herself as a normal person.Fortunately,
 Another inspiring part happens when her family asked her to give up the relationship of a man who is the same disability 
 as her.But she firmly choose to marry him. No matter what happens,we are supposed to treat ourselves correctly and 
 firmly choose what we love.
+
+####有趣的歌曲
+Describe an interesting song. What the song is, what story the song tells, whether the song is popular, 
+and explain why you think it is interesting.
+- 发散性的思维
+    - 歌的出处
+    - 歌的特点
+    - 你的感受
+    - lyrics/line.singer.background.story,influence.
+- A1
+    - when it comes to an interesting song, I 'd like to talk about the one called the Rumbling.
+    - slut
+    - hard shit
+    - this is insane
+    - I don't know where the direction is,where the song is going.It starts off with a bang.
+    - that Deep grunge voice. neo metal vibe. incredible
+    - vocals.
+    - blow away
+    - the build up of the song
+    
+- Shallow
+    - This song comes from a musical film called A Star is Born,which I saw in college.
+    - There is a plot that made me touched.It should be the one when men and women play this song together on the stage
+        with romantic atmosphere.
+    - The chorus part of the female voice relies on the high pitch and full emotion.
+    - it is very melodic and infectious. This long is a typical type of pop music.If this song is performed by a band, 
+        the style can became soft rock that I enjoy it.
+    - I don't care what this song specifically wants to express, but I can feel the sadness of this song.
+    - So that's why I started to take interest in the song and tried to practiced singing and playing with a friend who
+        recommended the film.Also，she is a fan of lady gaga. I guess this song should be very popular，at least for those
+         who like Lady Gaga.
+- beijing huan ying ni 
+    - it is publicity song of 2008 Beijing Olympic Games, and it was rather prevalent.
+    - Most people can sing this song, and many celebrities appear / show up in the MV.Those people come from different
+    regions of China,such as Hong Kong and Taiwan.
+- you and me
+    - regarded as Latin.
+    - Hopeless people.Persecution.
+    - Universal praises from people who had listened to it.
+- we will rock you
+    - Most people can sing the climax of song,we will we will rock you.
+    - yeah,it's very

@@ -96,26 +96,49 @@
     
 5. Taking photos
 
-    Do you like taking photos?
-    Do you like taking selfies?
-    What is your favorite family photo?3 | 6
-    Do you want to improve your photography skills?
+    - Do you like taking photos?
+        - yeah，I love it 
+        - the type of photos you taking
+        
+    - Do you like taking selfies?
+        - If 
+        - record / capture some funny/hilarious moments
+        
+    - What is your favorite family photo?
+        - It should be the half a year. 
+        - Year of XXX
+        - a studio
+        
+    - Do you want to improve your photography skills?
+        - photographer
+        - photography
+        - Yes.I guess it's a quite good way to make yourself more attractive.
+        - especially about composition to make the photo more ornamental
+        - influencer 
+         
     
 6. Time management * 
 
     - Do you like being busy?
         - Actually not really
-        - I like being full rather than being busy.
+        - I tend to be full rather than being busy.
+        - get the sense of self satisfaction.
         
     - How do you plan your time in a day?
-        - I usually make a to-do list that including what I should do and the time I used. 
-    
+        - Basically,I usually work from 9:00 am to 6.00 pm.
+        - In order to work more efficient, I make a to-do list that including what I should do and the time I used.
+        - I freely allocate my tme outside of work.
+        
     - When do you find it hard to allocate time?
         - I don't seem to have such a moment.
-        - I like an efficient lifestyle,so I don't time wasting time on meaningless thing.   
+        - Based on my habits I just mentioned.
+        - I enjoy having an efficient lifestyle,so I don't want to waste time on meaningless thing
         
     - Is it easy to manage time for you?
-        - yes,I clearly know what I do.
+        - yes,I clearly know what to do in a day.
+        - It is clear for me to know what to do in a day.
+        - Through some useful way.
+        - it can help us manage time easily through some useful way.
         - And Managing time properly is beneficial way to make my lifestyle more simple and efficient.
     
 7. Lost and found
@@ -133,13 +156,28 @@
         - On weekdays, 
     
     - Have you ever changed your routine?
-        - 
+        - I used to stay up at night.
+        - But I realized that it's really unhealthy last year
+        - That's why I began to decided to make a change. 
     
     - What part of your day do you like best?
+        - it should be the time when my work is over.
+        - that's the time i can dominate freely.
         - the part that I can relax myself,such as listening to music ,playing the guitar and 
         watch some short videos.
+        - it should be the time when I play the guitar and sing some songs.
+        - It's a fast way to release my pressure. .
         
     - Do you think it is important to have a daily routine for your study?
         - Yes.I was educated to establish the concept of lifelong when I was young.
         - So I take studying as a daily habit.
         
+        
+        
+homework:
+part 1
+物：colours,mirrors
+事件： weekend.
+part 2
+住所 
+
