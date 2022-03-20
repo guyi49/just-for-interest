@@ -71,19 +71,17 @@
 
 The charts indicates the amount of several kinds of transport in Metropolis during the period 1985 to 2010.
 
-There was a remark growth from 4.5 millions in 1985 to 8.5 millions of trips in 2010 in the quantity of light rail.
-It also exceeded bus in 1973 and private car in 1995,respectively 5.2 millions and 6.2 millions,eventually reaching at 
-8.5 millions.Similarly,the usage of bus showed an upward trend over these years,with 5.1 millions in 1985,ending at 2010.
+There was a remark growth from 4.5 million in 1985 to 8.5 millions of trips in 2010 in the quantity of light rail using.
+It also exceeded the times of using bus in 1973 and private car in 1995,respectively 5.2 million and 6.2 million,eventually 
+reaching at 8.5 million.Similarly,the usage of bus showed an upward trend over these years,with 5.1 million in 1985,ending at 2010.
 It is noticeable that the bus surpassed the private car in 2005.
 
-It is obviously that private car saw a slow drop from 6.2 millions to 5.8 millions in the period 1985-2010.
-Although the usage of motorbikes witnessed a slight rise during these year,with 3.4 millions in 1985,ending at 3.8, it
+It is obvious that private car saw a slow drop from 6.2 millions to 5.8 millions in the period 1985-2010.
+Although the usage of motorbikes witnessed a slight rise during these years,with 3.4 millions in 1985,ending at 3.8, it
 was lowest throughout this period
 
-Overall,we can conclude that the usage of public transport significantly increased while private transport is relatively
+Overall,we can conclude that the usage of public transport significantly increased while private transport was relatively
 less than it.
-
-
 
 Motorbikes were the lowest throughout this period, slowly rising from 3.4 billion in 1985 to 3.8 billion minutes in 1999.
 
