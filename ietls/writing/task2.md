@@ -592,11 +592,21 @@ and starting university studies
         - in conclusion，因为利于选专业和放松，所以我认为利大于弊。
         如果可以合理利用这一机会，那么有助于年轻人未来的工作和学习。
 - 范文
-
-It is quite common these days for young people in many countries to have a break from studying after graduating from high school.  The trend is not restricted to rich students who have the money to travel, but is also evident among poorer students who choose to work and become economically independent for a period of time. 
-The reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world.  By contrast, those who have spent some time earning a living or traveling to other places, have a broader view of life and better personal resources to draw on.  They tend to be more independent, which is very important factor in academic study and research, as well as giving them an advantage in terms of coping with the challenges of student life. 
-However, there are certainly dangers in taking time off at the important age.  Young adults may end up never returning to their studies or finding it difficult to readapt to an academic environment. They may think that it is better to continue in a particular job, or to do something completely different from a university course.  But overall, I think this is less likely today, when academic qualifications are essential for getting a reasonable career. 
-My view is that young people should be encouraged to broaden their horizons.  That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why.  Students with such a perspective are usually the most effective and motivated ones and taking a year off may be the best way to gain this. 
+  It is quite common these days for young people in many countries to have a break from studying after graduating from 
+high school.The trend is not restricted to rich students who have the money to travel, but is also evident among poorer 
+students who choose to work and become economically independent for a period of time. 
+  The reasons for this trend may involve the recognition that a young adult who passes directly from school to university
+is rather restricted in terms of general knowledge and experience of the world.  By contrast, those who have spent some 
+time earning a living or traveling to other places, have a broader view of life and better personal resources to draw on.  
+They tend to be more independent, which is very important factor in academic study and research, as well as giving them 
+an advantage in terms of coping with the challenges of student life. 
+  However, there are certainly dangers in taking time off at the important age.Young adults may end up never returning 
+to their studies or finding it difficult to readapt to an academic environment. They may think that it is better to 
+continue in a particular job, or to do something completely different from a university course.But overall, I think this
+is less likely today, when academic qualifications are essential for getting a reasonable career. 
+  My view is that young people should be encouraged to broaden their horizons.That is the best way for them to get a 
+clear perspective of what they are hoping to do with their lives and why.  Students with such a perspective are usually 
+the most effective and motivated ones and taking a year off may be the best way to gain this. 
 ### 题目2：有绝对词一定要不同意;交通类
 - increasing the price of petrol is the best way to solve growing traffic and pollution problems
 - 绝对词不同意
@@ -751,14 +761,14 @@ Discuss both these views and give your own opinion.
     - 噪音污染
 ### 开头改写
 #### test1
-In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. 
-Discuss the advantages and disadvantages for young people who decide to do this. 
+- In some countries young people are encouraged to work or travel for a year between finishing high school and starting 
+university studies. 
+- Discuss the advantages and disadvantages for young people who decide to do this. 
 ----
 1. 越来越多人选择高中毕业后用一年时间工作或旅行2 这件事是否利大于弊引起热议/ 有些人认为有利but有些人认为有坏处3. 我认为利大于弊
 ----
-There are several nations advocate that the young earn a living or have a tour during the period between graduating from high school and 
-attending a college.
-
+There are several nations advocate that the young earn a living or have a tour during the period between graduating from 
+high school and attending a college.
 - 现象
   1. Before starting college life, some high school graduates earn a living or have a tour.
 - 利大于弊：
@@ -772,32 +782,39 @@ attending a college.
 #### test2
 As countries develop, more and more people buy and use their own cars. 
 Do advantages of this trend outweigh the disadvantages for the environment?
-
-With the improvements of the living standard,it is a quite common mode for people to go out through private transports.
-Different people have various views about whether the benefits of doing this are more than the drawbacks of the eniroments
-
-
-g this are more than the drawbacks. 
-4. Whether the benefits of doing this are more than the drawbacks is a frequent topic of discussion among th general public.
-- 阐述观点
-    1.From my perspectives/to my knowledge/My own view is that
-    2. My own view is that the favorable aspects carry more weight than the adverse impacts.
-#### test2
-As countries develop, more and more people buy and use their own cars. 
-Do advantages of this trend outweigh the disadvantages for the environment?
 ------
 With the improvements of the living standard,it is a quite common mode for people to go out through private transports.
 Different people have various views about whether the benefits of doing this are more than the drawbacks of the environment.
 My own view is that choosing private cars may cause several drawbacks to the environment.
-
 #### test3 被动
 - Increasing the price of petrol is the best way to solve growing traffic and pollution problems.
 - To what extent do you agree or disagree? What other measures do you think might be effective?
-- congestion and contamination. 堵车和污染
-- purchase
-It is traffic and pollution problems that have been becoming more and more serious nowadays.Raising the price of oil is considered to 
-be the most effective way to handle them，which I do not approve of at all.
-
+- vocab
+    - congestion and contamination. 堵车和污染
+    - purchase
+---
 It is traffic and pollution problems that have been becoming more and more serious nowadays.Raising the price of oil is considered to 
 be the most effective way to handle them，which I do not approve of at all. 
-#### homework
+### homework
+#### test1
+- Some people say that the best way to improve public health is by increasing the number of sports facilities. 
+- Others, however, say that this would have little effect on public health and that other measures are required.
+- Discuss both these views and give your own opinion. 
+---
+Raising awareness of public health among the population has been hotly debated.Besides,the method of constructing a 
+great quantity of sports equipments is extremely advocated by some people.On the contrary,it seems that those who hold 
+opposite a view that would have not any impact on public health and more effective approaches are adopted,which I do not
+fully approve of it.
+#### test2
+- Rising university fees and scarce employment prospects for graduates have led some people to say that universities
+should not teach arts subjects, like philosophy and history, and only offer practical degree courses that maximise 
+chances of employment.
+- To what extent do you agree or disagree?
+---
+Because of these issues that the universities charge much and a great quantity of employers need more talents,
+some people argue that reduce the teaching of courses that are not practical and just establish some courses,which are 
+more suitable for the employment of graduates.Based on the fact that the university itself is a microcosm of diversified 
+society,it is hard for me to agree with this view.
+
+
+
