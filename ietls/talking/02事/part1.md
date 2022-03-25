@@ -1,3 +1,4 @@
+## part 1
 1. Weekend:
 
     What do you usually do on weekends?
@@ -94,51 +95,51 @@
     another person did the music, and another person did the graphics. It was fun, because I liked my classmates, 
     but it was hard because we had very different personalities! We just had to be patient and listen to each other.
     
-5. Taking photos
+5. Taking photos (课上分析)
 
     - Do you like taking photos?
-        - yeah，I love it 
+        - yeah，I love it.
+        - I take a lot of photos of food,selfies.
         - the type of photos you taking
         
     - Do you like taking selfies?
-        - If 
+        - I do.I like to capture some funny moments.
+        - Likely,If I have a bad haircut,I will take a selfie and post it on social media sharing with my friends.
         - record / capture some funny/hilarious moments
         
     - What is your favorite family photo?
-        - It should be the half a year. 
-        - Year of XXX
-        - a studio
+        - It should be the one that was taken five months ago. 
+        - I was with my grandma ,my mom and my aunt.
+        - My uncle took the photos for us in a nice restaurant and the day was my grandma's birthday.
         
     - Do you want to improve your photography skills?
         - photographer
         - photography
+        - influencer 网红
         - Yes.I guess it's a quite good way to make yourself more attractive.
-        - especially about composition to make the photo more ornamental
-        - influencer 
+        - In the other words,it's a nice way to socialize and make friends who appreciate your photos.
          
     
-6. Time management * 
+6. Time management * （课上分析）
 
     - Do you like being busy?
-        - Actually not really
-        - I tend to be full rather than being busy.
-        - get the sense of self satisfaction.
+        - Actually not really,
+        - I hate the feeling of getting too tired and it will consume a lot of energy.
         
     - How do you plan your time in a day?
         - Basically,I usually work from 9:00 am to 6.00 pm.
-        - In order to work more efficient, I make a to-do list that including what I should do and the time I used.
-        - I freely allocate my tme outside of work.
+        - I often skip rope for an hour after I get home from my work.
+        - Watching some short videos or chatting with my friends before I go to bed.
+        - Before I go to bed,I watch some short videos or chat with my friends.
         
     - When do you find it hard to allocate time?
         - I don't seem to have such a moment.
-        - Based on my habits I just mentioned.
+        - Basically,in order to work or study more efficient,I make a to-do list that include what I should do and 
+            the time I take.
         - I enjoy having an efficient lifestyle,so I don't want to waste time on meaningless thing
         
     - Is it easy to manage time for you?
-        - yes,I clearly know what to do in a day.
-        - It is clear for me to know what to do in a day.
-        - Through some useful way.
-        - it can help us manage time easily through some useful way.
+        - Yes,based on my habits that just mentioned,it is clear for me to know what to do in a day.
         - And Managing time properly is beneficial way to make my lifestyle more simple and efficient.
     
 7. Lost and found
@@ -149,11 +150,11 @@
     What will you do if you find something lost by others?
     Do you report to the police when finding something lost by others?
     
-8. Daily routine * 
+8. Daily routine * （课上分析）
 
     - What is your daily study routine?
-        - On weekdays,I will spare at least one hour to study.
-        - On weekdays, 
+        - Well, Sometime I spare at least one hour to study on weekdays.
+        - I usually start after lunch until I get tired on weekends.
     
     - Have you ever changed your routine?
         - I used to stay up at night.
@@ -161,10 +162,10 @@
         - That's why I began to decided to make a change. 
     
     - What part of your day do you like best?
-        - it should be the time when my work is over.
-        - that's the time i can dominate freely.
-        - the part that I can relax myself,such as listening to music ,playing the guitar and 
-        watch some short videos.
+        - It should be the time when my work is over.
+        - That's the time I can dominate freely.
+        - Playing the guitar,listening to music,watching variety show,do something that can release my pressure.
+        
         - it should be the time when I play the guitar and sing some songs.
         - It's a fast way to release my pressure. .
         
@@ -172,8 +173,72 @@
         - Yes.I was educated to establish the concept of lifelong when I was young.
         - So I take studying as a daily habit.
         
-        
-        
+## part 2
+给别人建议：
+Describe a time when you gave advice to others. 
+When it was, to whom you gave the advice, what the advice was, and explain why you gave the advice.
+   
+早起：
+Describe a time when you got up early. 
+When it was, what you did, why you got up early, and how you felt about it.
+
+等待特殊事情：
+Describe a time when you waited for something special that would happen. 
+What you waited for, where you waited, why it was special, and explain how you felt while you were waiting.
+
+自行车/摩托车/汽车旅行：
+Describe a bicycle/motorcycle/car trip you would like to go. 
+Who you would like to go with, where you would like to go, when you would like to go, 
+and explain why you would like to go by bicycle/motorcycle/car.
+
+善待不喜欢的人：Describe a time you were friendly to someone you didn’t like. 
+When and where it happened, who he/she was, why you didn’t like this person, 
+and explain why you were friendly to him/her on that occasion.
+
+浪费时间：
+Describe an activity you usually do that wastes your time. 
+What it is, when you usually do it, why you do it, and explain why you think it wastes your time.
+
+为家人骄傲：
+Describe a time when you felt proud of a family member. 
+When it happened, who the person is, what the person did, and explain why you felt proud of him/her.
+
+困难的事：
+Describe a difficult thing you did. 
+What it was, hoe you did/completed it, why it was difficult, and how you felt about doing it.
+
+搬到新家/新学校：
+Describe a time when you moved to a new home/school. 
+When you moved, where you moved, why you moved, and how you felt about it.
+   
+别人讲述的故事：
+Describe a story someone told you and you remember. 
+What the story was about, who told you this story, why you remember it, and how you feel about it.
+
+远距离步行：
+Describe a long walk you ever had. 
+When this happened, where you walked, who you were with, and explain how you felt about this long walk.
+
+语言学习：
+Describe a thing you did to learn another language. 
+What language you learnt, what you did, how it helped you learn the language, and how you felt about it.
+
+有趣的讨论：
+Describe an interesting conversation you had with your friend. 
+Who you spoke with, where you were, what the conversation was about, and explain why you think it was interesting.
+
+组织开心活动：
+Describe a time when you organized a happy event successfully. 
+What the event was, how you prepared for it, who helped you organize, and explain why you think it was a successful event.
+
+去新地方：
+Describe a time you visited a new place. 
+Where the new place is, when you went there, why you went there, and explain how you feel about the place.
+
+未酬壮志：
+Describe an ambition that you haven’t achieved. 
+What it is, why you haven’t achieved it, what you did, and how you felt about it.
+
 homework:
 part 1
 物：colours,mirrors

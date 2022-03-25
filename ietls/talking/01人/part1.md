@@ -3,24 +3,25 @@
     - What technology do you use when you study or work?
         - technology:devices/platform/applications,online resource
         - Usual office software,such as Excel,Word,Visio.
-        - 
         - economic
         - my major is xxx
         - I will major in xxx
-        - Basicallyå
+        - Basically , I use some usual office software , such as excel , word , Visio during my work time.
     
     - What work do you do?
-        - Big Data development engineer.
-    
+        - I am a Big Data development engineer in a hotel company.
+        - My main work content is to build data center, construct data projects and design data products.
     - Why did you choose to do that type of work?
-        - First of all, my major was computer science and technology.
-        - Secondly, I am interested in CS and I enjoying coding or designing some system.
-        - What's the most important is that I am keen to solve problems through computer science and technology. 
-            It can gives me a sense of achievements.
+        - First of all, my major is computer science and technology.
+        - Also, I am interested in CS and I enjoying coding or designing some system.
+        - What's the most significant is that I am keen to solve problems through technology. 
+        - I can get a sense of achievements from it.
         
     - Do you miss being a student?
-        - Yes,I miss the time of going to and from school with my classmates.
-    
+        - Actually,being a student means that you are more focused on your studies and don't have to deal with 
+        complex interpersonal relationship.
+        - I especially want to continue my study and enjoy the time of studying with my classmates.
+        
     - Do you like your job?
         - Yes,I feel full and I can realize my value in my work.
     

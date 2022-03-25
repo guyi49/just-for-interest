@@ -1,4 +1,4 @@
-5.Cinema
+5. Cinema
 - Did you usually go to the cinema when you were a kid?
     - Not quite often. It was still not that popular to go to the cinema at that time. 
     The tickets were rather expensive as well.
@@ -19,7 +19,8 @@
     - It depends on what type of film it is. For science-fiction and fantasy movies, 
     maybe the cinema is a better choice. On the other hand, home is fine for other types.
     - the current serious pandemic.
-6.Street market
+    
+6. Street market
 - Are there many street markets in China?
     - I guess there are not many now coz they might be under regulation from the government. 
     - The reason is that they may cause much congestion, and this is gonna be a problem for the society.
@@ -55,3 +56,18 @@ lamb skewers,beef,mushrooms,corn,snacks juice and beer.We enjoy delicious food a
 - I do enjoy idyllic and slow-paced environment.
 - so that's what i want to share with you about the place.
 - relaxing:forget what bothers you.
+
+#### 想要的住所：
+Describe a house or an apartment you would like to live in. 
+What it is like, where it would be, why you would like to live in this house/apartment, 
+and how you feel about this house/apartment.
+
+- I want an apartment of 150 to 200 square.As to the design of interior space,it has at least have two bedrooms,
+a room for working or studying,an entertainment room for playing the guitar or piano,an open type kitchen,a living room, 
+a balcony and two bathroom.I prefer simple and wooden decoration style.I only purchase some necessary furniture.
+
+- In terms of the external facilities and environment of the apartment,there are a fitness centre and an underground 
+parking lot in the community with a greening coverage of at least 30%.And it close to the subway and park.
+There are business district near it，which I can easily go shopping and eat in some restaurants.
+
+- As for me,I like to be alone.It satisfies all my needs for living.I really expect that will come true in future.
