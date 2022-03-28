@@ -95,7 +95,7 @@
     another person did the music, and another person did the graphics. It was fun, because I liked my classmates, 
     but it was hard because we had very different personalities! We just had to be patient and listen to each other.
     
-5. Taking photos (课上分析)
+5. Taking photos * (课上分析)
 
     - Do you like taking photos?
         - yeah，I love it.
@@ -142,13 +142,20 @@
         - Yes,based on my habits that just mentioned,it is clear for me to know what to do in a day.
         - And Managing time properly is beneficial way to make my lifestyle more simple and efficient.
     
-7. Lost and found
+7. Lost and found * （课上分析）
 
-    Have you ever lost things?
+    - Have you ever lost things?
+        - yeah,I remember quite clearly that I  lost my ID_card when I was in college.
+        - I posted this on social media, and I wanted to get help from all the friends to get it back.
+        - Eventually ,I found it .
+    - Will you post on social media if you lose your item?
+        - yeah,I post on social media to find it through the help of school friends.
     
-    Will you post on social media if you lose your item?
-    What will you do if you find something lost by others?
-    Do you report to the police when finding something lost by others?
+    - What will you do if you find something lost by others?
+        - It depends on how much it values. If it’s something quite precious, 
+        I’ll definitely give it to the police. Otherwise, I’ll just keep it.
+    
+    - Do you report to the police when finding something lost by others?
     
 8. Daily routine * （课上分析）
 
@@ -173,75 +180,4 @@
         - Yes.I was educated to establish the concept of lifelong when I was young.
         - So I take studying as a daily habit.
         
-## part 2
-给别人建议：
-Describe a time when you gave advice to others. 
-When it was, to whom you gave the advice, what the advice was, and explain why you gave the advice.
-   
-早起：
-Describe a time when you got up early. 
-When it was, what you did, why you got up early, and how you felt about it.
 
-等待特殊事情：
-Describe a time when you waited for something special that would happen. 
-What you waited for, where you waited, why it was special, and explain how you felt while you were waiting.
-
-自行车/摩托车/汽车旅行：
-Describe a bicycle/motorcycle/car trip you would like to go. 
-Who you would like to go with, where you would like to go, when you would like to go, 
-and explain why you would like to go by bicycle/motorcycle/car.
-
-善待不喜欢的人：Describe a time you were friendly to someone you didn’t like. 
-When and where it happened, who he/she was, why you didn’t like this person, 
-and explain why you were friendly to him/her on that occasion.
-
-浪费时间：
-Describe an activity you usually do that wastes your time. 
-What it is, when you usually do it, why you do it, and explain why you think it wastes your time.
-
-为家人骄傲：
-Describe a time when you felt proud of a family member. 
-When it happened, who the person is, what the person did, and explain why you felt proud of him/her.
-
-困难的事：
-Describe a difficult thing you did. 
-What it was, hoe you did/completed it, why it was difficult, and how you felt about doing it.
-
-搬到新家/新学校：
-Describe a time when you moved to a new home/school. 
-When you moved, where you moved, why you moved, and how you felt about it.
-   
-别人讲述的故事：
-Describe a story someone told you and you remember. 
-What the story was about, who told you this story, why you remember it, and how you feel about it.
-
-远距离步行：
-Describe a long walk you ever had. 
-When this happened, where you walked, who you were with, and explain how you felt about this long walk.
-
-语言学习：
-Describe a thing you did to learn another language. 
-What language you learnt, what you did, how it helped you learn the language, and how you felt about it.
-
-有趣的讨论：
-Describe an interesting conversation you had with your friend. 
-Who you spoke with, where you were, what the conversation was about, and explain why you think it was interesting.
-
-组织开心活动：
-Describe a time when you organized a happy event successfully. 
-What the event was, how you prepared for it, who helped you organize, and explain why you think it was a successful event.
-
-去新地方：
-Describe a time you visited a new place. 
-Where the new place is, when you went there, why you went there, and explain how you feel about the place.
-
-未酬壮志：
-Describe an ambition that you haven’t achieved. 
-What it is, why you haven’t achieved it, what you did, and how you felt about it.
-
-homework:
-part 1
-物：colours,mirrors
-事件： weekend.
-part 2
-住所 
