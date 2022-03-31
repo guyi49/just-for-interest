@@ -16,3 +16,23 @@
 
 
 #### c11-test1-p3
+
+
+explore/explode/exploit
+discover/suddenly increase/take advantage of
+
+early—old/past/previous/ancient/historic/primitive/ancestral 
+
+## tip
+放到最后做：
+Matching Headings(LOH)+Matching Information
+
+#### C10 T2 P3
+
+deter…from...
+prevent…from...
+limit/restrict
+
+the sheer volume of=a great number of
+
+#### C14 T1 P2
