@@ -14,7 +14,7 @@
 初始状态下，所有next 指针都被设置为 NULL。
 """
 
-# Definition for a Node.
+# Definition for algorithm Node.
 class Node:
     def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
         self.val = val

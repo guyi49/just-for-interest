@@ -12,13 +12,13 @@
 注意：如果对空文本输入退格字符，文本继续为空。
 
 输入：s = "ab#c", t = "ad#c"
- a b # c -> a c
- a d # c -> a c
+ algorithm b # c -> algorithm c
+ algorithm d # c -> algorithm c
 输出：true
 解释：S 和 T 都会变成 “ac”。
 
-输入：s = "a#c", t = "b"
-a # c -> c
+输入：s = "algorithm#c", t = "b"
+algorithm # c -> c
 b
 输出：false
 解释：s 会变成 “c”，但 t 仍然是 “b”。

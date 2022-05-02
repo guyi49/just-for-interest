@@ -14,8 +14,8 @@
 输入：["h","e","l","l","o"]
 输出：["o","l","l","e","h"]
 
-输入：["h","a","h"]
-输出：["h","a","h"]
+输入：["h","algorithm","h"]
+输出：["h","algorithm","h"]
 '''
 
 def reserve_string(s):
@@ -31,4 +31,4 @@ def reserve_string(s):
     print(s)
 
 reserve_string(["h","e","l","l","o"])
-reserve_string(["h","a","h"])
+reserve_string(["h","algorithm","h"])
