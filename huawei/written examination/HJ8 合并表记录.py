@@ -64,6 +64,6 @@ for i in range(0, num):
         table[int(record[0])] = origin + int(record[1])
     else:
         table[int(record[0])] = int(record[1])
-list = sorted((table.keys()))
+key_list = sorted((table.keys()))
 for i in list:
     print(i, table[i])
