@@ -32,9 +32,13 @@
 #         break
 
 # 186 186 150 200 160 130 197 200
+'''
+
+
+'''
 def _max(queue):
     dp = [1] * len(queue)
-    print(dp)
+    # print(dp)
     for i in range(len(queue)):
         for j in range(i):
             # print(i)
@@ -48,15 +52,49 @@ while 1:
     try:
         num = int(input())
         height = [int(i) for i in input().split()]
-        print(height)
-        print(height[::-1])
+        # print(height)
+        # print(height[::-1])
         if num == len(height):
             left = _max(height)
-            print(left)
+            # print(left)
             right = _max(height[::-1])[::-1]
             # print(_max(height[::-1]))
-            print(right)
+            # print(right)
             max_student = max([left[i] + right[i] - 1 for i in range(len(left))])
             print(num - max_student)
+    except:
+        break
+
+import bisect
+'''
+    bisect是python内置模块，用于有序序列的插入和查找。
+    查找： bisect(array, item)
+    插入： insort(array,item)
+'''
+
+def deal(arr):
+    d = []
+    count = []
+    for val in arr:
+        if not d:  # 选中队列中的一个学生，以该学生为核心
+            d.append(val)
+            count.append(1)
+        elif d[-1] < val:
+            d.append(val)
+            count.append(count[-1] + 1)
+        else:
+            d[bisect.bisect_left(d, val)] = val
+            count.append(count[-1])
+    return count
+
+
+while True:
+    try:
+        n = int(input())
+        height = list(map(int, input().split()))
+        forward = deal(height)
+        back = deal(height[::-1])[::-1]
+        result = max(forward[i] + back[i] for i in range(n))
+        print(n - result + 1)
     except:
         break
