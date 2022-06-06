@@ -15,7 +15,7 @@
 ### 结构 
 - 1.开头
     1.tense: 一般现在时态
-    2. 改写
+    2. 改写w
         - chart = graph
         - below 
         - show = indicate = illustrate = describe

@@ -219,9 +219,12 @@ The reasons for this trend **may involve** the **recognition** that a young adul
 
 However, there are certainly dangers in taking time off at the important age.  Young adults may end up never returning to their studies or finding it difficult to **readapt** to an academic **environment**. They may think that it is better to continue in a particular job, or to do something **completely** different from a university course.  But overall, I think this is less likely today, when academic qualifications are essential for getting a reasonable career. 
 
-**My view is that** young people should **be encouraged** to **broaden their horizons**.  That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why.  Students with such a perspective are **usually** the most **effective** and **motivated** ones and taking a year off may be the best way to **gain** this. 
+**My own view is that** young people should **be encouraged** to **broaden their horizons**.  That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why.  Students with such a perspective are **usually** the most **effective** and **motivated** ones and taking a year off may be the best way to **gain** this. 
 
 ### 题目2：交通 提高油价 有绝对词一定要不同意
+
+ ![image-20220525100655827](D:\1\pics\transport.png)
+
 - increasing the price of petrol is the best way to solve growing traffic and pollution problems
 - 绝对词不同意
 - others:写两个点
@@ -241,6 +244,31 @@ However, there are certainly dangers in taking time off at the important age.  
         - 污染
             - 新能源车
             - public transport
+-----
+
+It is traffic congestion and pollution problems that **have been becoming more and more serious nowadays**.Raising the price of gas **is** 
+**considered** to be the most effective way to handle them, **which I do not approve of at all**. 
+
+
+
+Due to increased fuel prices ,it may effect others **means of transportation.**For instance,the group of public transport could raise ticket prices. Therefore, it seems that it is not the best messure to solve these issues,there are some more suitable means to settle them.
+
+ 
+
+It is obvious that the one of the major cause of the traffic jam is that there are great quantities of cars.With the development of the big data,we can use the technology to predict the **vehicles flow** to **optimize** the transportation system.Besides,I suggest that we need to lanuch the project of road construction to contain great number of vehicles.And it includes **widening or repairing the roads** and building **viaducts**.
+
+
+
+I think to **tackle** the problems of pollution, we can appeal people to purchase the electric cars instead of petrol cars,which is cleaner and effective way to reduce vehicle **emissions** and noise.What is the most significant is that the goverment should focus on developing and providing more green and convenient public transport services so that people have more choices to take.In addiation,it can not only lessen the traffic but also reduce pollution.
+
+
+
+In conclusion, I believe that people should set up the **awareness** of taking public transport and relevant departments improve the traffic system to ease the traffic pressure and contamination.
+
+
+
+
+
 ### 题目3：学校教育 双比较题；好坏处的对象选择
 - believe that it is better for children to begin learning a foreign language at primary school rather secondary school
 - 题目分析
@@ -389,54 +417,31 @@ As countries develop, more and more people buy and use their own cars. Do advant
     - 噪音污染
 ### 开头改写
 #### test1
-In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. 
-
-Discuss the advantages and disadvantages for young people who decide to do this. 
-
-1. 越来越多人选择高中毕业后用一年时间工作或旅行2 这件事是否利大于弊引起热议/ 有些人认为有利but有些人认为有坏处3. 我认为利大于弊
-----
-There are several nations advocate that the young earn a living or have a tour during the period between graduating from high school and 
-attending a college.
-
-- 现象
-  1. Before starting college life, some high school graduates earn a living or have a tour.
-- 利大于弊：
-1. Whether the benefits of doing this are more than the drawbacks has caused heated debates.
-2. Public debate about whether the benefits of doing this are more than the drawbacks  has been growing in intensity. 
-3. Different people have various views about whether the benefits of doin## 评分标准
-1. 题目
-2. 连词和观点
-    - 总分总
-3. 词汇
-    - 尽量不重复，换词
-    - less common important ; vital;significant
-    - company ; business;
-4. 语法
-    - 句子要写对
-    - range
-        - 从句5-6个左右；
-            - 从句套从句
-                - those who believe that
-### 开头改写
-#### test1
-- In some countries young people are encouraged to work or travel for a year between finishing high school and starting 
-university studies. 
+- In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. 
 - Discuss the advantages and disadvantages for young people who decide to do this. 
 ----
 1. 越来越多人选择高中毕业后用一年时间工作或旅行2 这件事是否利大于弊引起热议/ 有些人认为有利but有些人认为有坏处3. 我认为利大于弊
 ----
-There are several nations advocate that the young earn a living or have a tour during the period between graduating from 
-high school and attending a college.
+**It is quite common these days** for young people in many countries to have a break from studying after graduating from high school.  The trend **is not restricted to** rich students who have the money to travel, **but is also evident** among poorer students who choose to work and become **economically** independent for a **period** of time. 
+
+----
+
+
+
+There are several nations advocate that the young earn a living or have a tour during the period between graduating from high school and attending a college.Whether the benefits of doing this are more than the drawbacks is a frequent topic of discussion among the pubic.My own view is that the favorable aspects carry more weight than the adverse impacts.
+
 - 现象
   1. Before starting college life, some high school graduates earn a living or have a tour.
-- 利大于弊：
-1. Whether the benefits of doing this are more than the drawbacks has caused heated debates.
-2. Public debate about whether the benefits of doing this are more than the drawbacks  has been growing in intensity. 
-3. Different people have various views about whether the benefits of doing this are more than the drawbacks. 
-4. Whether the benefits of doing this are more than the drawbacks is a frequent topic of discussion among the general public.
+- **利大于弊：**
+1. **Whether the benefits of doing this are more than the drawbacks has caused heated debates.**
+2. **Public debate about whether the benefits of doing this are more than the drawbacks  has been growing in intensity.** 
+3. **Different people have various views about whether the benefits of doing this are more than the drawbacks.** 
+4. **Whether the benefits of doing this are more than the drawbacks is a frequent topic of discussion among the general public.**
 - 阐述观点
-    1.From my perspectives/to my knowledge/My own view is that
-    2. My own view is that the favorable aspects carry more weight than the adverse impacts.
+  
+    1. From my perspectives/to my knowledge/My own view is that
+    
+    2. **My own view is that the favorable aspects carry more weight than the adverse impacts.**
 #### test2
 As countries develop, more and more people buy and use their own cars. 
 
@@ -453,7 +458,10 @@ My own view is that choosing private cars may cause several drawbacks to the env
     - purchase
 ---
 It is traffic and pollution problems that have been becoming more and more serious nowadays.Raising the price of oil is 
-considered to be the most effective way to handle them，which I do not approve of at all. 
+considered to be the most effective way to handle them, which I do not approve of at all. 
+
+
+
 ### homework
 #### test1
 - Some people say that the best way to improve public health is by increasing the number of sports facilities. 
