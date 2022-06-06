@@ -1,0 +1,10 @@
+A family member I’d love to work with in future is my uncle. He is fairly young and full of energy and determination. He founded a small furniture business in Chengde, mainly specializing in old and tasteful home furnishings – handmade and certainly more interesting and elegant than most you’ll see in the high street. He is a very good businessman with a keen eye for art and culture, so he has combined two skills and interests into a fairly successful business. He also does a certain amount of interior design, and has a small design team consisting of a couple of my cousins and some other employees who studied design in university. So, he is expanding his furniture business to embrace a wider field of interior design and is hoping to get some clients in the hotel industry. I think with my international experience and ability to connect with people from other cultures, and I speak English fairly fluently, I could play a PR or marketing role in my uncle’s company, or work with client engagement and sales. I’d love to do this, as I am also quite into artistic pursuits and I believe I have a good eye for design, and would like to learn more about the world of business. Furthermore, I’m a people-person and I enjoy interacting with people and I believe I have a good aptitude for nurturing relationships. I feel that my uncle would be a marvelous person to work with, and I would be very happy to work with him – he’s patient and tolerant, but also very focused, ambitious and determined. I think these are great qualities to have if you’re going to run your own business successfully.
+
+---
+
+
+A family member I’d love to work with in future is my mom. She is full of energy and determination.
+
+She often goes to volunteer activities local volunteer group in my hometown. For example, in July and August, they give ice tea to passenger around the train in summer. and They organize mountain climbing to pick up garbage. Her spirit of helping others infected me. Therefore, I also participated in the volunteer work of the community to help deliver things during lockdown period.
+
+So I especially want to do volunteer work with her.
